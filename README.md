@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **manjaytechnical3@gmail.com** For Collaboration/Project or
 - 🌱 **I’m currently learning:** Java / SpringBoot /aws cloud 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** manjaytechnical3@gmail.com
-- 😄 **Pronouns:** Technial Manjay
+- 😄 **Pronouns:** Technical Manjay
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Content Creator. 😊😊
